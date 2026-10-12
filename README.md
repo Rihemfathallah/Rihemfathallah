@@ -1,7 +1,4 @@
-# Rihem Fathallah
-
-**AIOps Engineer · Final-Year Telecommunications Engineering Student**
-AIOps · LLM Agents · Kubernetes & GitOps · Observability · RAG · 5G Networks
+<h1 align="center">Rihem Fathallah</h1> <h3 align="center">Telecom Engineering Student · AIOps</h3> <p align="center"> AIOps · LLM Agents · Kubernetes & GitOps · Observability · 5G Networks </p> <p align="center"> <a href="https://www.linkedin.com/in/rihem-fathallah-"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square" alt="LinkedIn"></a> <a href="mailto:rihem.fathallahengineer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a> <img src="https://img.shields.io/badge/Open%20to-PFE%20Jan%202027-2EA44F?style=flat-square" alt="Open to PFE internship, February 2027"> </p>
 
 ## About
 
