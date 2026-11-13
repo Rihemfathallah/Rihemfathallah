@@ -25,7 +25,6 @@ Looking for a 6-month end-of-studies (PFE) internship in AIOps / AI Engineering 
 - **Self-Healing GitOps Platform** - Terraform-provisioned Kubernetes cluster, Argo CD and Helm deployment, availability and latency SLOs with error-budget tracking, automated rollback on SLO alerts, disaster recovery with Velero (RTO / RPO measured). *Code release in progress.*
 - [NeuralRAG](https://github.com/Rihemfathallah/NeuralRag) - Private-document RAG service with a local LLM, used as the workload and runbook engine of the two projects above: hybrid retrieval, ChromaDB, FastAPI. Shipped with Docker Compose, NGINX/HTTPS, Kubernetes manifests with HPA, GitHub Actions CI and a Prometheus / Loki / Grafana observability stack.
 - [UrbanMind](https://github.com/Rihemfathallah/urban-mind) - Agent work from the Talan SummerCamp urban digital-twin project. Team repository: [Khatatli UrbanTwin](https://github.com/inesCherif/Khatatli_UrbanTwin).
-- [Challenge Goal Analyzer](https://github.com/Rihemfathallah/ocr-challenge-goal-analyzer) - Streamlit dashboard built for the Talan SummerCamp hackathon: OCR on handwritten goals, then LLM analysis with structured outputs (LangChain, Gemini, Pydantic).
 - **Topological Alert Correlation with GNNs** - Correlation of security alerts over the network topology using graph neural networks (PyTorch Geometric).
 
 
