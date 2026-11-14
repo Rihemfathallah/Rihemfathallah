@@ -29,7 +29,7 @@ Looking for a 6-month end-of-studies (PFE) internship in AIOps / AI Engineering 
 
 
 - [RIS-Assisted UAV Cognitive Radio](https://github.com/Rihemfathallah/ris-assisted-uav-cognitive-radio) - Deep reinforcement learning (TD3) for joint power and RIS phase control under an interference constraint, benchmarked against a convex optimisation bound. PyTorch, Stable-Baselines3, CVXPY. Full report in `report/`.
-- **LLM Agent for Adaptive LoRa Modulation** - Link adaptation in hybrid terrestrial / LEO-satellite IoT networks. *Code release in progress.*
+- **LLM Agent for Adaptive LoRa Modulation** - Link adaptation in hybrid terrestrial / LEO-satellite IoT networks.
 
 ## Education & Certifications
 
